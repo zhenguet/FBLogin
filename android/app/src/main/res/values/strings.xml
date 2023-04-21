@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FBLogin</string>
+  <string name="app_name">FBLogin</string>
+  <string name="facebook_app_id">134911002787577</string>
+  <string name="facebook_client_token">125f64c9382eed8fbf78f487bedfb642</string> 
 </resources>
